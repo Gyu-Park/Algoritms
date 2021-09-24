@@ -13,3 +13,6 @@ This repository is for which algoritms I learned.
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Insertion Sort
+![Insertion Sort](/img/Insertion Sort.png)
