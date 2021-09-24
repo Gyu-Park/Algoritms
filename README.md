@@ -17,5 +17,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Insertion Sort
 ![InsertionSort](https://user-images.githubusercontent.com/91029746/134723693-5b90b60b-802d-40fb-819e-069f47ce2a07.png)
 
-- Best case: running in O(n) time.
-- Average and worst case: running in O(n^2) time.
+- Best case              : O(n)
+- Average and worst case : O(n^2)
+
+## Bubble Sort
+![BubbleSort](https://user-images.githubusercontent.com/91029746/134726265-dc142dc4-f5a7-4927-bee6-f1a6fa904953.png)
+
+- Best case              : O(n)
+- Average and worst case : O(n^2)
