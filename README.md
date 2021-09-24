@@ -5,8 +5,8 @@ This repository is for which algoritms I learned.
 
 ## Folder Structure
 
-- `src`: there are `Main.java`, and `Algoritms` package.
-- `Main.java`: it is a driver class to show the result of sorting arrays by using sorting methods.
+- `src`: There are `Main.java`, and `Algoritms` package.
+- `Main.java`: It is a driver class to show the result of sorting arrays by using sorting methods.
 - `Algorithms`: There are some classes for soritng algoritms. Each class name represents what kind of sorting algoritm it is.
 
 
