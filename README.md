@@ -15,4 +15,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Insertion Sort
-![Insertion Sort](/img/Insertion Sort.png)
+![Insertion Sort](https://github.com/Gyu-Park/Algorithms/tree/master/img/InsertionSort.png?raw=true)
