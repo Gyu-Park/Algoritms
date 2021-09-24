@@ -17,5 +17,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Insertion Sort
 ![InsertionSort](https://user-images.githubusercontent.com/91029746/134723693-5b90b60b-802d-40fb-819e-069f47ce2a07.png)
 
-Best case: running in O(n) time.
-Average and worst case: running in O(n^2) time.
+- Best case: running in O(n) time.
+- Average and worst case: running in O(n^2) time.
