@@ -30,3 +30,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ![MergeSort](https://user-images.githubusercontent.com/91029746/134755739-f81a2da7-cd41-43fe-a772-2c88cf554327.png)
 
 - All cases              : O(n*logn)
+
+## QuickSort
+![QuickSort](https://user-images.githubusercontent.com/91029746/134782968-3017aad1-16df-4492-8ab9-ed40aac33d14.png)
+
+- Best and average case  : O(n*logn)
+- Worst case             : O(n^2)
