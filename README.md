@@ -25,3 +25,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 - Best case              : O(n)
 - Average and worst case : O(n^2)
+
+## Merge Sort
+![MergeSort](https://user-images.githubusercontent.com/91029746/134755739-f81a2da7-cd41-43fe-a772-2c88cf554327.png)
+
+- All cases              : O(n*logn)
