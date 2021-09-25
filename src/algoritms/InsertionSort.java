@@ -2,7 +2,7 @@ package algoritms;
 
 public class InsertionSort {
 
-    public static void insertionSort (int[] intArray) {
+    public static void insertionSort (final int[] intArray) {
         for (int i = 1; i < intArray.length; i++) {
             int currentInt = intArray[i];
             int j;

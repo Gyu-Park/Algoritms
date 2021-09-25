@@ -17,5 +17,12 @@ public class Main {
             System.out.print(intArray[i]);
         }
 
+        System.out.println("");
+
+        intArray = new int[]{9, 1, 3, 5, 8, 0, 2, 7};
+        MergeSort.mergeSort(intArray);
+        for (int i = 0; i < intArray.length; i++) {
+            System.out.print(intArray[i]);
+        }
     }
 }

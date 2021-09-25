@@ -2,7 +2,7 @@ package algoritms;
 
 public class BubbleSort {
 
-    public static void bubbleSort (int[] intArray) {
+    public static void bubbleSort (final int[] intArray) {
         boolean nextPass = true;
         for (int i = 1; i < intArray.length && nextPass; i++) {
             nextPass = false;
@@ -16,5 +16,5 @@ public class BubbleSort {
             }
         }
     }
-    
+
 }
