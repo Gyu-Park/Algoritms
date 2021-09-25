@@ -1,6 +1,6 @@
 package algoritms;
 
-import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class QuickSort {
 
@@ -20,7 +20,7 @@ public class QuickSort {
 
     // partition the array
     public static int partition(int[] intArray, int first, int last) {
-        int randomPivotIndex = new Random().nextInt(last - 1);  // choose a pivot randomly
+        int randomPivotIndex = ThreadLocalRandom.current().nextInt(first, last + 1);  // choose a pivot randomly
         // send the pivot value at the first index in the intArray
         if (randomPivotIndex > first)
             intArray = swap(intArray, first, randomPivotIndex);
