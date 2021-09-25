@@ -24,5 +24,13 @@ public class Main {
         for (int i = 0; i < intArray.length; i++) {
             System.out.print(intArray[i]);
         }
+
+        System.out.println("");
+
+        intArray = new int[]{9, 1, 3, 5, 8, 0, 2, 7};
+        QuickSort.quickSort(intArray);
+        for (int i = 0; i < intArray.length; i++) {
+            System.out.print(intArray[i]);
+        }
     }
 }
