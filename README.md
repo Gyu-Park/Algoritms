@@ -32,7 +32,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 - All cases              : O(n*logn)
 
 ## QuickSort
-![QuickSort](https://user-images.githubusercontent.com/91029746/134782968-3017aad1-16df-4492-8ab9-ed40aac33d14.png)
+![QuickSort](https://user-images.githubusercontent.com/91029746/134783086-49e63f5c-ea24-4773-a8a7-c3012cb5ef54.png)
 
 - Best and average case  : O(n*logn)
 - Worst case             : O(n^2)
