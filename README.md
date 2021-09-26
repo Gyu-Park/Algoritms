@@ -38,6 +38,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 - Worst case             : O(n^2)
 
 ## HeapSort
-![QuickSort](https://user-images.githubusercontent.com/91029746/134817985-c9b8e50a-63e3-4265-9858-6e0857e252f2.png)
+![HeapSort](https://user-images.githubusercontent.com/91029746/134818072-4df678fd-20dc-4861-9cd1-d2968964d623.png)
 
 - All cases  : O(n*logn)
