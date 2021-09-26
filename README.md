@@ -1,6 +1,6 @@
 ## Learning Algorithms
 
-This repository is for which algoritms I learned.
+This repository is for which algoritms I've learned.
 
 
 ## Folder Structure
