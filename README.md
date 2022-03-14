@@ -1,6 +1,6 @@
 ## Learning Algorithms
 
-This repository is for which algoritms I've learned.  
+This repository is for algoritms I've learned.
      
 Reference: Introduction to Java Programming and Data Structures by Y Daniel Liang.
 
